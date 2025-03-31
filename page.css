@@ -1,0 +1,410 @@
+#div1{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid black; */
+    /* margin-top: 20px; */
+}
+#main{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-image: linear-gradient(#dae1f2,#d6a4a3);
+}
+h2,nav{
+    display: inline-block;
+    /* padding: 10px 10px; */
+}
+h2{
+    margin-left: 40px;
+}
+#b1{
+    padding: 5px;
+    margin-left: 16pc;
+    background-color: #545b78;
+    color: white;
+}
+nav{
+    /* display: inline-block; */
+    /* justify-content: center; */
+    word-spacing: 4pc;
+    /* display: flex; */
+    /* text-align: center; */
+    margin-left: 13pc;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+h1,h2{
+    font-family: 'Unna', serif;
+}
+#div2{
+    width: 99%;
+    /* border: 1px solid black; */
+    /* margin-left: 40px; */
+    height:360px ;
+    margin-top: 40px;
+}
+#div2>p{
+    margin-left: 16px;
+    font-size:smaller;
+    position: absolute;
+    top: 330px;
+    left: 40px;
+}
+h1{
+    font-size:xx-large;
+    font-weight:900;
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 40px;
+}
+body{
+    background-image: linear-gradient(#dae1f2,#d6a4a3);
+    /* overflow: hidden; */
+    overflow-x: hidden ;
+}
+#i{
+    position: absolute;
+    top:195px;
+    left: 1000px;
+    box-shadow: 5px 5px 5px #d8a6c6;
+}
+#i1{
+    position: absolute;
+    top:175px ;
+    left: 949px;
+}
+#i2{
+    position: absolute;
+    top:345px;
+    left: 950px;
+}
+#i3{
+    position: absolute;
+    top: 430px;
+    left: 1252px;
+}
+#b2{
+    height: 40px;
+    width: 170px;
+    background-color: #893860;
+    color: white;
+    position: absolute;
+    top: 460px;
+    left: 60px;
+}
+#b3{
+    height: 40px;
+    width: 170px;
+    position: absolute;
+    top: 460px;
+    left: 260px;
+}
+#i4{
+    position: absolute;
+    left: 60px;
+}
+#i5{
+    position: absolute;
+    left: 390px;
+}
+#i6{
+    position: absolute;
+    left: 700px;
+}
+#i7{
+    position: absolute;
+    left: 1000px;
+}
+#i8{
+    position: absolute;
+    left: 1250px;
+}
+
+#div3{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    height: 20px;
+    padding: 5px;
+    width: 95%;
+    margin-left: 30px;
+}
+#div4{
+    margin-top: 80px;
+    /* border: 1px solid black; */
+    width: 95%;
+    margin-left: 30px;
+}
+#s1,#s2,#s3{
+    height: 410px;
+    width: 400px;
+    /* border: 1px solid black; */
+    display: inline-block;
+    position: absolute;
+    /* text-align: center; */
+}
+#s1{
+    left: 50px;
+    background-color: #f3c94c;
+    color: white;
+    font-size:large;
+    /* top: 10px; */
+}
+#s2{
+    left: 510px;
+    background-color: #99d6d6;
+    color: white;
+    font-size: large;
+}
+#s3{
+    left: 970px;
+    background-color: #e29486;
+    color: white;
+    font-size: large;
+}
+#i9{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+#i10{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+#i11{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.sec{
+    margin-left: 23px;
+    position: absolute;
+    top: 80px;
+}
+section>p{
+    position: absolute;
+    left: 25px;
+    font-size:x-small;
+    top: 170px;
+
+}
+section>a{
+    position: relative;
+    top: 210px;
+    left: 25px;
+    font-size: large;
+    text-decoration: underline red; 
+}
+#div5{
+
+    /* border: 1px solid black; */
+    position: relative;
+    top: 500px;
+    width: 95%;
+    margin-left: 40px;
+}
+#div5>h2{
+    position: relative;
+    top: 10px;
+    left: -40px;
+    font-size: xx-large;
+}
+#div5>p{
+    position: relative;
+    top: -15px;
+    left: 3px;
+    font-size: x-small;
+}
+#if{
+    position: relative;
+    top: -250px;
+    left: 800px;
+    height: 200px;
+    width: 400px;
+    box-shadow: 5px 5px 5px #fffbdd;
+}
+
+#s5{
+    border: 1px solid black;
+    
+}
+
+
+.card>img{
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left: -170px;
+}
+
+.h6{
+    color: white;
+    font-size: xx-small;
+    position: relative;
+    top: 100px;
+    left: 130px;
+} 
+#div8{
+    /* position: relative; */
+    margin-top: 100px;
+    height: 280px;
+    width: 98%;
+    /* border: 1px solid black; */
+    /* top: 390px; */
+    background-color: #f4eae9;
+}
+#div9{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 25%;
+    top: 50px;
+    left: 40px;
+}
+#div9>p{
+    font-size: xx-small;
+    text-align: justify;
+}
+#div10{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 150px;
+    position: relative;
+    top: -140px;
+    left: 610px;
+}
+#div11{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: -342px;
+    left: 850px;
+}
+#div10>a{
+    color: black;
+}
+#div11>a{
+    color:black
+}
+#div12{
+    height: 60px;
+    width: 150px;
+    position: relative;
+    top: -506px;
+    left: 1210px;
+    justify-content: right;
+    /* border: 1px solid black; */
+    z-index:2 ;
+
+}
+#div12>button{
+    position: relative;
+    left: 64px;
+}
+#div13{
+    word-spacing: 15px;
+}
+#div14{
+    margin-top: -379px;
+    text-align: center;
+    font-size: xx-small;
+}
+
+
+#div8>p{
+    margin-top: -340px;
+}
+#div6{
+    position: relative;
+    width: 900px;
+    height: 800px;
+    overflow: hidden;
+    margin: auto;
+}
+#card{
+    display: flex;
+    width: 1200px;
+    position: absolute;
+    animation-name: cards;
+    animation-duration: 6s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction:normal;
+}
+.card{
+    width: 310px;
+    height: 200px;
+    padding: 20px;
+    /* border-radius: 10px; */
+    text-align: left;
+    margin: 0 10px;
+    background-color: #545677;
+    position: absolute;
+    top: 370px;
+    z-index:2;
+}
+.card>img{
+    height: 30px;
+    position: relative;
+    left: 1px;
+    top: 2px;
+}
+.card>p{
+    color: white;
+    font-size: xx-small;
+    position: relative;
+    top: -13px;
+    left: 5px;
+    text-align: justify;
+}
+
+@keyframes cards {
+    0%{
+        transform: translate(0);
+    }
+    100%{
+        transform: translateX(-700px);
+    }
+}
+#s5{
+    position: absolute;
+    left: 370px;
+}
+#s6{
+    position: absolute;
+    left: 760px;
+}
+#s7{
+    position: absolute;
+    left: 1170px;
+}
+.card>h6{
+    position: absolute;
+    text-align: end;
+    top: 140px;
+    left: 200px;
+}
+#div6>h2{
+    position: relative;
+    top: 350px;
+    text-align: center;
+    left: 170px;
+
+}
+#background{
+    height: 500px;
+    width: 500px;
+    border:40px solid rgb(225, 214, 214);
+    border-radius: 350px;
+    position: absolute;
+    top: 1700px;
+    left: 1100px;
+    /* transform: translate(-50%,-50%); */
+    z-index: 1;
+}
+
+
+
+
